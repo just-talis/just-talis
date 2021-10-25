@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @just-talis
 - 👀 I’m interested in back-end engineering
-- 🌱 I’m currently learning back-end engineering
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning node.js
 - 📫 How to reach me esthersimon540@gmail.com
 
 <!---
