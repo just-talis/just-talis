@@ -15,5 +15,5 @@ I'm a Software Engineer,  [Resume](https://docs.google.com/document/d/16Iqjmigc3
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=just-talis&show_icons=true&include_all_commits=true&hide_border=true" alt="Esther's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-talisji&langs_count=8&layout=compact&hide_border=true" alt="Esther's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=just-talis&show_icons=true&include_all_commits=true&hide_border=true" alt="Esther's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-talis&langs_count=8&layout=compact&hide_border=true" alt="Esther's GitHub stats" /> |
 | ------------- | ------------- |
