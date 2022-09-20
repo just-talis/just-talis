@@ -17,3 +17,4 @@ I'm passionate about software engineering and currently learning how to build we
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-talis&langs_count=8&layout=compact&hide_border=true" alt="Esther's GitHub stats" /> |
 
+......
