@@ -8,7 +8,7 @@ I'm passionate about software engineering and currently learning how to build we
 
 - 😊 Pronouns: She/Her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning and also improving my skills in HTML, CSS, JavaScript, and Reactjs.
+- 🌱 I’m currently learning and also improving my skills in HTML, CSS, JavaScript, Reactjs and Vue.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/16Iqjmigc3ziDgUGycb6hsgYBXtnstHap9G9eMrGJoEg/edit?usp=sharing) and contact me by emailing esthersimon540@gmai.com. 
